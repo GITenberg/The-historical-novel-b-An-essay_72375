@@ -1,0 +1,27 @@
+_repo: The-historical-novel-b-An-essay_72375
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Butterfield, Herbert
+    gutenberg_agent_id: '56661'
+    url: http://www.gutenberg.org/2009/agents/56661
+description: ''
+gutenberg_issued: '2023-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72375'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015000676265
+pgterms:marc905: 20200527081934butterfiel
+pgterms:marc906: '1924'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aCambridge :$bCambridge University Press, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The historical novel : $b An essay'
+url: http://www.gutenberg.org/ebooks/72375
